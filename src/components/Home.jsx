@@ -136,16 +136,16 @@ const Home = () => {
           <img className="zoom_in" src={ProfileImg} alt="profile-img" style={{ marginTop: "50px", marginBottom:"20px"}} />
           <h2 className="designer fade_up">{firstTexts[firstTextIndex]}</h2>
           <div className="profile-media-icons-main fade_up">
-            <Link to="mailto:hello@biogi.com" className="profile-media-icons">
+            <Link to="mailto:yourdesigner653@gmail.com" className="profile-media-icons">
               <img src={EmailSvg} alt="email-svg" />
             </Link>
             <Link to="https://www.behance.net" className="profile-media-icons">
               <img src={BehanceSvg} alt="behance-svg" />
             </Link>
-            <Link to="https://dribbble.com" className="profile-media-icons">
+            <Link to="https://www.instagram.com/designwithshailesh" className="profile-media-icons">
               <img src={DribleSvg} alt="drribale-svg" />
             </Link>
-            <Link to="https://medium.com" className="profile-media-icons">
+            <Link to="https://www.youtube.com/@designwithshailesh" className="profile-media-icons">
               <img src={MediumSvg} alt="medium-svg" />
             </Link>
           </div>
